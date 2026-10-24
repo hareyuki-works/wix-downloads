@@ -1,2 +1,2 @@
 # wix-downloads
-WiX本体とアドオンの配布
+Official binary releases of WiX, a free, portable image viewer for Windows.
